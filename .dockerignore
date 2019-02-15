@@ -1,0 +1,8 @@
+.DS_Store
+.git
+*.md
+Makefile
+Dockerfile
+*.go
+
+vendor
